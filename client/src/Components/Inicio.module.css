@@ -1,0 +1,11 @@
+.div{
+    background-image:url('../Imagenes/Mapamundi.jpg'); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.button{
+    position:absolute;
+    top: 50%;
+}
